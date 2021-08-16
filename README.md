@@ -5,3 +5,5 @@
 # Selection Sort
 # Quick Sort
 # Merge Sort
+
+This Project is developed using HTML, CSS, JAVASCRIPT
