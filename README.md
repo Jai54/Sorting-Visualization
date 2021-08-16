@@ -1,5 +1,5 @@
 # Sorting-Visualization
-# This is a Sorting Visualization Project Developed by javascript
+# This is a Sorting Visualization Project Using javascript
 # Bubble Sort
 # Inseration Sort
 # Selection Sort
